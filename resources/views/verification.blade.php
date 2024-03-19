@@ -4,7 +4,7 @@
     <title>Verificación de Número Teléfonico</title>
 </head>
 <body>
-    <h1>Verificación de Número Teléfonico</h1>
+    <h1>Verificación de Número Teléfonico para laravel</h1>
 
     @if (session('success'))
         <div>{{ session('success') }}</div>
